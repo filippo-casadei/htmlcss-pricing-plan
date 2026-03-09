@@ -1,3 +1,15 @@
+/* FONTS */
+
+/* FONT DA USARE
+.roboto-<class> {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <100 to 900>;
+  font-style: normal;
+  font-variation-settings:
+  "wdth" 100;
+} */
+
 .contenitore-carte {
     display: flex;
     flex-wrap: wrap;
