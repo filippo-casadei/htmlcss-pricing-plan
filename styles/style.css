@@ -41,3 +41,23 @@ body {
   font-variation-settings:
   "wdth" 100; 
 }
+
+.carta:first-child .scegli-piano {
+    background-color: #bd18e0;
+    color: white;
+    border-color: #bd18e0;
+    padding: 12px 24px;
+    margin-top: 5px;
+    border-radius: 13%;
+    font-size: large;
+}
+
+.carta:last-child .scegli-piano {
+    background-color: #bd18e0;
+    color: white;
+    border-color: #bd18e0;
+    padding: 12px 24px;
+    margin-top: 5px;
+    border-radius: 13%;
+    font-size: large;
+}
