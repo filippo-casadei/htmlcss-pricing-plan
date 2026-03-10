@@ -43,16 +43,6 @@ body {
 }
 
 .carta:first-child .scegli-piano {
-    background-color: #bd18e0;
-    color: white;
-    border-color: #bd18e0;
-    padding: 12px 24px;
-    margin-top: 5px;
-    border-radius: 13%;
-    font-size: large;
-}
-
-.scegli-piano {
     background-color: blue;
     color: white;
     border-color: blue;
@@ -62,10 +52,20 @@ body {
     font-size: large;
 }
 
+.scegli-piano {
+    background-color: white;
+    color: blue;
+    border-color: white;
+    padding: 12px 24px;
+    margin-top: 5px;
+    border-radius: 13%;
+    font-size: large;
+}
+
 .carta:last-child .scegli-piano {
-    background-color: #bd18e0;
+    background-color: blue;
     color: white;
-    border-color: #bd18e0;
+    border-color: blue;
     padding: 12px 24px;
     margin-top: 5px;
     border-radius: 13%;
