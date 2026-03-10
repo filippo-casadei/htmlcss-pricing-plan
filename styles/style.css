@@ -27,3 +27,8 @@
     text-align: center;
     box-sizing: border-box;
 }
+
+.lista-funzioni {
+    list-style: none;
+    padding: 0;
+}
