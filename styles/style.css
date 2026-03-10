@@ -71,3 +71,8 @@ body {
     border-radius: 13%;
     font-size: large;
 }
+
+.carta-professional {
+    background-color: blue;
+    color: white;
+}
