@@ -52,6 +52,16 @@ body {
     font-size: large;
 }
 
+.scegli-piano {
+    background-color: blue;
+    color: white;
+    border-color: blue;
+    padding: 12px 24px;
+    margin-top: 5px;
+    border-radius: 13%;
+    font-size: large;
+}
+
 .carta:last-child .scegli-piano {
     background-color: #bd18e0;
     color: white;
